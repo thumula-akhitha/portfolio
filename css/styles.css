@@ -10037,9 +10037,8 @@ p.lead {
   }
   #sideNav .navbar-brand {
     display: flex;
-    margin: auto auto 0;
-    padding: 0.5rem;
-  }
+    margin-top: 5em;
+ }
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
